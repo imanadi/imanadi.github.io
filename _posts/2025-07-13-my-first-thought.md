@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Thought"
+title: "On First Thoughts"
 date: 2025-07-13
 ---
 
-I'm excited to see where this goes!
+I will share my thoughts soon.

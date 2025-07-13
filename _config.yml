@@ -1,3 +1,10 @@
 title: imanadi
-description: thoughts
-theme: jekyll-theme-hacker
+author: Anadi
+description: A collection of thoughts.
+theme: jekyll-theme-cayman
+
+sass:
+    sass_dir: assets/css
+
+plugins:
+  - jekyll-seo-tag
