@@ -1,0 +1,41 @@
+@import "jekyll-theme-cayman";
+
+// Custom styles for a dark, philosophical theme
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+a {
+    color: #bb86fc;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.page-header {
+    background-color: #1f1f1f;
+    border-bottom: 1px solid #333;
+}
+
+.project-name {
+    color: #ffffff;
+}
+
+.project-tagline {
+    color: #b0b0b0;
+}
+
+.main-content {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: #ffffff;
+    }
+}
